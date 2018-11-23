@@ -20,7 +20,7 @@ We will be using a dataset containing 200 different classes of birds adapted fro
 The training/validation/test images used for this model can be downloaded from [here](https://www.di.ens.fr/willow/teaching/recvis18/assignment3/bird_dataset.zip). The test image labels are not provided.
 
 #### Training and validating the model
-For the model, we used two pretrained models (ResNet152 and InceptionV3) to extract two features vectors. A classifier is added to classify the images using the stacked extracted features. See `model.py` and the attached paper for more details.
+For the model, we used two pretrained models (ResNet152 and InceptionV3) to extract two features vectors. A classifier is added to classify the images using the stacked extracted features. See `model.py` and the [attached paper](https://github.com/Swirler/Kaggle-Bird-Classification/blob/master/A3_Mehdi_BOUBNAN_Paper.pdf) for more details.
 
 To train the model with default parameters, run the following command :
 
