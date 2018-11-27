@@ -6,6 +6,8 @@ This Kaggle competition, with the rest of the Object recognition and computer vi
 
 Link : [https://www.kaggle.com/c/mva-recvis-2018](https://www.kaggle.com/c/mva-recvis-2018)
 
+Rank on the leaderbord : 4th
+
 #### Requirements
 1. Install PyTorch from http://pytorch.org
 
